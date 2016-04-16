@@ -2,7 +2,7 @@
 <addon id="plugin.audio.tutorial"
        name="XBMC Plugin Tutorial"
        version="0.0.1"
-       provider-name="Zsolt Török">
+       provider-name="RELAXINGDLL">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
   </requires>
@@ -12,7 +12,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">This is an English summary.</summary>
-    <description lang="en">This is an English description.</description>
+    <summary lang="en">TONG THE</summary>
+    <description lang="en">NGON NGU SU DUNG BANG TIENG ANH</description>
   </extension>
 </addon>
