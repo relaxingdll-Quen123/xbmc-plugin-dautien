@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.tutorial"
-       name="XBMC Plugin Tutorial"
-       version="0.0.1"
+       name="CHUONG TRINH AUDIO PLUGIN THU NGHIEM"
+       version="0.0.2"
        provider-name="RELAXINGDLL">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
