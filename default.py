@@ -10,8 +10,8 @@ MODE_SECOND = 20
 PARAMETER_KEY_MODE = "mode"
 
 # menu item names
-FIRST_SUBMENU = "First Submenu"
-SECOND_SUBMENU = "Second Submenu"
+FIRST_SUBMENU = "Nhac hoa tau"
+SECOND_SUBMENU = "Nhac Bolero"
 
 # plugin handle
 handle = int(sys.argv[1])
